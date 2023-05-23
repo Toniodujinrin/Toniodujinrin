@@ -1,5 +1,5 @@
-### Hi there 👋, Im Toni
-## I a fullStack developer !**
+# Hi there 👋, Im Toni
+## I a fullStack developer !
 - im currently learning about networking and cyber security 🥷
 - Say Hi to me on linkedIn https://www.linkedin.com/in/toni-odujinrin-02a80b232/
 <!--
