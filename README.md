@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, Im Toni
+## I a fullStack developer !**
+- im currently learning about networking and cyber security 🥷
+- Say Hi to me on linkedIn https://www.linkedin.com/in/toni-odujinrin-02a80b232/
 <!--
 **Toniodujinrin/Toniodujinrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
