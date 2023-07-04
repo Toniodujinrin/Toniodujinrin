@@ -3,6 +3,17 @@
 - im currently learning about networking and cyber security 🥷
 - Say Hi to me on linkedIn https://www.linkedin.com/in/toni-odujinrin-02a80b232/
 - View my personal website https://toniodujinrin.netlify.app/
+- <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Toniodujinrin&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Toniodujinrin&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toniodujiinrin&show_icons=true" />
+</picture>
 <!--
 **Toniodujinrin/Toniodujinrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
