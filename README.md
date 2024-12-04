@@ -1,7 +1,5 @@
 # Hi there 👋, Im Toni
 ## I am an Electrical Engineering student !
-- im currently learning about computer systems, networking and cyber security 🥷
-- Say Hi to me on linkedIn https://www.linkedin.com/in/toni-odujinrin-02a80b232/
 - View my personal website https://toniodujinrin.netlify.app/
 - <picture>
   <source
